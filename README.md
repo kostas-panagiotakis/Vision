@@ -1,4 +1,4 @@
-DETR and YOLO references:
+# DETR and YOLO references:
 
 DETR:
 
