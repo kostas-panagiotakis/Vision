@@ -1,3 +1,13 @@
+DETR and YOLO references:
+
+DETR:
+
+https://github.com/roboflow/notebooks/blob/main/notebooks/train-huggingface-detr-on-custom-dataset.ipynb
+
+YOLO:
+
+https://github.com/roboflow/notebooks/blob/main/notebooks/train-yolo-nas-on-custom-dataset.ipynb
+
 # Vision
 Chess Detection Transformer for object recognition
 
