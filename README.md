@@ -1,4 +1,4 @@
-# DETR and YOLO references:
+# DETR, YOLO, real life chess vision references:
 
 DETR:
 
@@ -7,6 +7,10 @@ https://github.com/roboflow/notebooks/blob/main/notebooks/train-huggingface-detr
 YOLO:
 
 https://github.com/roboflow/notebooks/blob/main/notebooks/train-yolo-nas-on-custom-dataset.ipynb
+
+Real-Life Chess Vision:
+
+https://github.com/shainisan/real-life-chess-vision
 
 # Vision
 Chess Detection Transformer for object recognition
