@@ -12,6 +12,10 @@ Real-Life Chess Vision:
 
 https://github.com/shainisan/real-life-chess-vision
 
+DETR last head transformer:
+
+https://github.com/facebookresearch/detr
+
 # Vision
 Chess Detection Transformer for object recognition
 
